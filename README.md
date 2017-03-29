@@ -1,3 +1,3 @@
 # bestofpython  
 
-scala learning notes
+python learning notes
